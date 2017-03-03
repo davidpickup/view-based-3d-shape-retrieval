@@ -8,11 +8,11 @@ Please note that I am not an author of this paper, and therefore the implementat
 
 ## Dependencies
 
-Matlab.
-OpenGL.
-PhychToolbox (http://psychtoolbox.org/).
-VLFeat (http://www.vlfeat.org/).
-Toolbox Graph (http://uk.mathworks.com/matlabcentral/fileexchange/5355-toolbox-graph).
+* Matlab.
+* OpenGL.
+* PhychToolbox (http://psychtoolbox.org/).
+* VLFeat (http://www.vlfeat.org/).
+* Toolbox Graph (http://uk.mathworks.com/matlabcentral/fileexchange/5355-toolbox-graph).
 
 ## Instructions
 
